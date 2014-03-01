@@ -6,6 +6,12 @@
 //  Copyright (c) 2014 Zaki Shaheen. All rights reserved.
 //
 
+
+/*
+This is a solution to question #1 on http://evernote.com/careers/challenge.php
+*/
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
